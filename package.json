@@ -25,7 +25,7 @@
     "cheerio": "^1.0.0-rc.3",
     "jsdom": "^15.2.1",
     "request": "^2.88.2",
-    "request-promise": "^4.2.5",
+    "request-promise": "^4.2.6",
     "shelljs": "^0.8.3",
     "telegram-node-bot": "github:Vachounet/telegram-node-bot"
   }
